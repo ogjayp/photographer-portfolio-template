@@ -1,4 +1,4 @@
-# Photographer Portfolio Template
+# Free Photographer Portfolio Template
 
 A beautiful, modern portfolio template designed specifically for photographers. Built with Next.js, TypeScript, and Tailwind CSS.
 
