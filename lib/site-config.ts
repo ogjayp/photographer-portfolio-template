@@ -4,6 +4,9 @@
 // ============================================
 
 export const siteConfig = {
+    // Live demo URL - This is the live example of the website
+    liveDemoUrl: "https://free-photographer-portfolio-templat.vercel.app/",
+    
     // Your name and tagline
     name: "Alexandra Chen",
     tagline: "Photographer",

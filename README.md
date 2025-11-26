@@ -2,6 +2,12 @@
 
 A beautiful, modern portfolio template designed specifically for photographers. Built with Next.js, TypeScript, and Tailwind CSS.
 
+## Live Demo
+
+🌐 **View the live example**: [https://free-photographer-portfolio-templat.vercel.app/](https://free-photographer-portfolio-templat.vercel.app/)
+
+This is the live example of the website showcasing all features and design elements.
+
 ## Features
 
 - 🎨 **Modern Design** - Clean, minimalist aesthetic that puts your work front and center
