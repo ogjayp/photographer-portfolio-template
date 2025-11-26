@@ -4,6 +4,12 @@
 // ============================================
 
 export const siteConfig = {
+    // Site base URL - Used for sitemap and robots.txt
+    // Leave as is for now - you can update this after you deploy your site
+    // Just replace with your actual domain (e.g., "https://yourname.com")
+    // Don't include a trailing slash
+    baseUrl: "https://free-photographer-portfolio-templat.vercel.app",
+    
     // Live demo URL - This is the live example of the website
     liveDemoUrl: "https://free-photographer-portfolio-templat.vercel.app/",
     
