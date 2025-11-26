@@ -1,4 +1,4 @@
-# Photographer Portfolio Template
+# Free Photographer Portfolio Template
 
 A beautiful, modern portfolio template designed specifically for photographers. Built with Next.js, TypeScript, and Tailwind CSS.
 
@@ -14,7 +14,7 @@ A beautiful, modern portfolio template designed specifically for photographers. 
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/ogjayp/photographer-portfolio-template.git
    cd photographer-portfolio-template
    ```
 
